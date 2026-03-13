@@ -53,6 +53,7 @@ int main(void) {
 }
 ```
 ## Output
+<img width="1533" height="357" alt="image" src="https://github.com/user-attachments/assets/258143e1-dd6c-4719-a628-6a80d2773bb5" />
 
 ---
 
